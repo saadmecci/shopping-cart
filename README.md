@@ -13,7 +13,7 @@ Set up your local environments and run `yarn`.
 
 This is what you will need to install the software and here is how to install it.
 
-`[Yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable)`
+[Yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
 
 ## This application is built with
 
